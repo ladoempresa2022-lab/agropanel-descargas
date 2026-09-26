@@ -70,6 +70,18 @@ calculadora de caldo para la mochila.
 
 ---
 
+## Comprar
+
+**AgroPanel cuesta 100 € al año.** Incluye todas las funciones y las actualizaciones
+mientras la licencia esté vigente.
+
+1. Pruébalo gratis 30 días con la versión de prueba (arriba).
+2. **[👉 Pide tu licencia aquí](https://agropanel-licencias.mcarrion-1ee.workers.dev/comprar)**: deja tu nombre y tu teléfono o email.
+3. Te escribimos con cómo pagar por **Bizum o transferencia** y, al recibir el pago, te mandamos tu clave.
+4. Descarga **AgroPanel** (con clave de licencia), ábrelo y pega la clave.
+
+---
+
 ## La primera vez que lo abras
 
 Windows puede mostrar **«Windows protegió su PC»**, porque el programa todavía no lleva
@@ -87,6 +99,6 @@ cada día**. Desde ⚙️ Configurar puedes exportar una copia cuando quieras.
 
 ---
 
-¿Quieres la versión completa? Descarga AgroPanel y actívalo con tu clave de licencia.
+¿Quieres la versión completa? **[Pide tu licencia](https://agropanel-licencias.mcarrion-1ee.workers.dev/comprar)** (100 € al año).
 
 <sub>Las capturas muestran una finca de ejemplo.</sub>
